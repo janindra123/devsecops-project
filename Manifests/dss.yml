@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: shaikmustafa/newone:dev
+          image: janindra170/devsecops:devv
           ports:
             - containerPort: 3000
 
