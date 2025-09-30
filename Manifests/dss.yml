@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: janindra170/secops:eks
+          image: janindra170/latest:eks
           ports:
             - containerPort: 3000
 
